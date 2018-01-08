@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1266015767 source:e:\documents and settings\mk\my documents\c++ projects\obit\main.cpp
+	<iostream>
+	<curses.h>
+	<ctime>
+
+1216124006 e:\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1266017441 source:e:\documents and settings\mk\my documents\my dropbox\asciilemmings\obit\main.cpp
+	<iostream>
+	<curses.h>
+	<ctime>
+
